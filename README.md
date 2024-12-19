@@ -4,22 +4,22 @@ Pranaja widyadhana Wardana<br>
 TI.23.A2<br>
 <br>
 
-# 1. Buat file mobil.php
+# 1. Membuat file mobil.php
    <img src="/file/image/mobil.png" img>
 
-# 2. Hasil mobil.php
+# 2. Hasil dari mobil.php
  <img src="/file/image/hasilmobil.png" img>
  
-# 3. Buat file form.php
+# 3. Membuat file form.php
  <img src="/file/image/form.png" img>
  
-# 4. Buat file form_input.php
+# 4. Membuat file form_input.php
  <img src="/file/image/forminput.png" img>
  
-# 5. Hasil form_input.php
+# 5. Hasil dari form_input.php
  <img src="/file/image/hasilforminput.png" img>
  
-# 6. Buat file database.php
+# 6. Membuat file database.php
 
  <img src="/file/image/database1.png" img>
   <img src="/file/image/database2.png" img>
