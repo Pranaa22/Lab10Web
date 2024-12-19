@@ -1,4 +1,4 @@
-# Tugas Pertemuan 12 Pemrograman Web 1
+# Tugas Pertemuan 12 Pemrograman Web 1 (Praktikum 10)
 Pranaja widyadhana Wardana<br>
 312310194<br>
 TI.23.A2<br>
